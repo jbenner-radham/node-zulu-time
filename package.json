@@ -1,6 +1,6 @@
 {
   "name": "zulu-time",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "An ISO 8601 extended & IETF compliant UTC Zulu notation (Z) timestamp generator.",
   "main": "lib/index.js",
   "directories": {
