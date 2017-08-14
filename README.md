@@ -22,6 +22,10 @@ Testing
 $ npm test
 ```
 
+See Also
+--------
+- [Zulu Time - Wikipedia](https://en.wikipedia.org/wiki/Zulu_time)
+
 License
 -------
 The MIT License (Expat). See the [license file](LICENSE) for details.
